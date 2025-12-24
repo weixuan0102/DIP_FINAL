@@ -6,9 +6,22 @@ This repository contains the pipeline for **4D Gaussian Splatting (4DGS)** with 
 Ensure you have the following Conda environments installed:
 - `videogs`: For running COLMAP, VideoGS training, and Rendering.
 - `sam3`: For generating static masks using SAM3.
-  ```bash
-  git clone https://github.com/facebookresearch/sam3.git
-  ```
+
+```bash
+# Create environments from provided YAML files
+conda env create -f environment_videogs.yml
+conda env create -f environment_sam3.yml
+```
+
+```bash
+git clone --recursive https://github.com/weixuan0102/DIP_FINAL.git
+```
+
+Build conda environments
+```bash
+conda env create -f environment_videogs.yml
+conda env create -f environment_sam3.yml
+```
 
 ## 🚀 1. Data Preprocessing
 Before training, turn raw videos into a processed dataset.
