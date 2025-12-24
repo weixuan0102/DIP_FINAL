@@ -1,0 +1,1496 @@
+{
+    "001001": [
+        {
+            "id": 0,
+            "name": "Person A (主角)",
+            "point": [
+                3076,
+                608
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 1,
+            "name": "Person B (路人)",
+            "point": [
+                2739,
+                767
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 2,
+            "name": "Person C (路人)",
+            "point": [
+                2323,
+                816
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 3,
+            "name": "Chair Left (左邊椅子)",
+            "point": [
+                1902,
+                1560
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 4,
+            "name": "Table Center (中間桌子)",
+            "point": [
+                1832,
+                1034
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 5,
+            "name": "Box Right (右邊箱子)",
+            "point": [
+                2566,
+                1366
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 6,
+            "name": "Box left (右邊箱子)",
+            "point": [
+                1609,
+                1683
+            ],
+            "label": 1,
+            "is_static": true
+        }
+    ],
+    "002001": [
+        {
+            "id": 0,
+            "name": "Person A (主角)",
+            "point": [
+                2853,
+                519
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 2,
+            "name": "Person C (路人)",
+            "point": [
+                2313,
+                821
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 3,
+            "name": "Chair Left (左邊椅子)",
+            "point": [
+                1654,
+                1629
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 4,
+            "name": "Table Center (中間桌子)",
+            "point": [
+                1931,
+                1069
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 5,
+            "name": "Box Right (右邊箱子)",
+            "point": [
+                2561,
+                1386
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 6,
+            "name": "Box left (右邊箱子)",
+            "point": [
+                1436,
+                1693
+            ],
+            "label": 1,
+            "is_static": true
+        }
+    ],
+    "003001": [
+        {
+            "id": 0,
+            "name": "Person A (主角)",
+            "point": [
+                2789,
+                475
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 2,
+            "name": "Person C (路人)",
+            "point": [
+                2432,
+                846
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 3,
+            "name": "Chair Left (左邊椅子)",
+            "point": [
+                1609,
+                1629
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 4,
+            "name": "Table Center (中間桌子)",
+            "point": [
+                2100,
+                1094
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 5,
+            "name": "Box Right (右邊箱子)",
+            "point": [
+                1396,
+                1743
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 6,
+            "name": "Box left (右邊箱子)",
+            "point": [
+                2630,
+                1421
+            ],
+            "label": 1,
+            "is_static": true
+        }
+    ],
+    "004001": [
+        {
+            "id": 0,
+            "name": "Person A (主角)",
+            "point": [
+                2471,
+                375
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 1,
+            "name": "Person B (路人)",
+            "point": [
+                2863,
+                727
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 3,
+            "name": "Chair Left (左邊椅子)",
+            "point": [
+                1352,
+                1500
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 4,
+            "name": "Table Center (中間桌子)",
+            "point": [
+                2055,
+                1039
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 5,
+            "name": "Box Right (右邊箱子)",
+            "point": [
+                3091,
+                1138
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 6,
+            "name": "Box left (右邊箱子)",
+            "point": [
+                2957,
+                1500
+            ],
+            "label": 1,
+            "is_static": true
+        }
+    ],
+    "005001": [
+        {
+            "id": 0,
+            "name": "Person A (主角)",
+            "point": [
+                2224,
+                524
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 1,
+            "name": "Person B (路人)",
+            "point": [
+                2878,
+                811
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 3,
+            "name": "Chair Left (左邊椅子)",
+            "point": [
+                1262,
+                1565
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 4,
+            "name": "Table Center (中間桌子)",
+            "point": [
+                3155,
+                1213
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 5,
+            "name": "Box Right (右邊箱子)",
+            "point": [
+                2947,
+                1520
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 6,
+            "name": "Box left (右邊箱子)",
+            "point": [
+                2541,
+                1465
+            ],
+            "label": 1,
+            "is_static": true
+        }
+    ],
+    "006001": [
+        {
+            "id": 0,
+            "name": "Person A (主角)",
+            "point": [
+                2016,
+                519
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 1,
+            "name": "Person B (路人)",
+            "point": [
+                2898,
+                702
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 2,
+            "name": "Person C (路人)",
+            "point": [
+                2457,
+                806
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 3,
+            "name": "Chair Left (左邊椅子)",
+            "point": [
+                1248,
+                1461
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 4,
+            "name": "Table Center (中間桌子)",
+            "point": [
+                3264,
+                1153
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 5,
+            "name": "Box Right (右邊箱子)",
+            "point": [
+                2997,
+                1500
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 6,
+            "name": "Box left (右邊箱子)",
+            "point": [
+                2229,
+                1069
+            ],
+            "label": 1,
+            "is_static": true
+        }
+    ],
+    "008001": [
+        {
+            "id": 0,
+            "name": "Person A (主角)",
+            "point": [
+                1327,
+                425
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 1,
+            "name": "Person B (路人)",
+            "point": [
+                2774,
+                762
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 2,
+            "name": "Person C (路人)",
+            "point": [
+                2427,
+                891
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 3,
+            "name": "Chair Left (左邊椅子)",
+            "point": [
+                812,
+                1594
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 4,
+            "name": "Table Center (中間桌子)",
+            "point": [
+                3482,
+                1272
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 5,
+            "name": "Box Right (右邊箱子)",
+            "point": [
+                2808,
+                1748
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 6,
+            "name": "Box left (右邊箱子)",
+            "point": [
+                2437,
+                1594
+            ],
+            "label": 1,
+            "is_static": true
+        }
+    ],
+    "009001": [
+        {
+            "id": 0,
+            "name": "Person A (主角)",
+            "point": [
+                1104,
+                465
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 1,
+            "name": "Person B (路人)",
+            "point": [
+                2724,
+                792
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 2,
+            "name": "Person C (路人)",
+            "point": [
+                2506,
+                816
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 3,
+            "name": "Chair Left (左邊椅子)",
+            "point": [
+                1198,
+                1426
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 4,
+            "name": "Table Center (中間桌子)",
+            "point": [
+                3576,
+                1322
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 5,
+            "name": "Box Right (右邊箱子)",
+            "point": [
+                2699,
+                1753
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 6,
+            "name": "Box left (右邊箱子)",
+            "point": [
+                2967,
+                1228
+            ],
+            "label": 1,
+            "is_static": true
+        }
+    ],
+    "010001": [
+        {
+            "id": 0,
+            "name": "Person A (主角)",
+            "point": [
+                886,
+                380
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 1,
+            "name": "Person B (路人)",
+            "point": [
+                2491,
+                653
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 2,
+            "name": "Person C (路人)",
+            "point": [
+                2333,
+                821
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 3,
+            "name": "Chair Left (左邊椅子)",
+            "point": [
+                1144,
+                1352
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 4,
+            "name": "Table Center (中間桌子)",
+            "point": [
+                3443,
+                1381
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 5,
+            "name": "Box Right (右邊箱子)",
+            "point": [
+                2362,
+                1713
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 6,
+            "name": "Box left (右邊箱子)",
+            "point": [
+                2962,
+                1198
+            ],
+            "label": 1,
+            "is_static": true
+        }
+    ],
+    "012001": [
+        {
+            "id": 0,
+            "name": "Person A (主角)",
+            "point": [
+                757,
+                593
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 1,
+            "name": "Person B (路人)",
+            "point": [
+                2283,
+                762
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 3,
+            "name": "Chair Left (左邊椅子)",
+            "point": [
+                1144,
+                1381
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 4,
+            "name": "Table Center (中間桌子)",
+            "point": [
+                3160,
+                1510
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 5,
+            "name": "Box Right (右邊箱子)",
+            "point": [
+                2105,
+                1639
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 6,
+            "name": "Box left (右邊箱子)",
+            "point": [
+                2744,
+                1143
+            ],
+            "label": 1,
+            "is_static": true
+        }
+    ],
+    "101001": [
+        {
+            "id": 0,
+            "name": "Person A (主角)",
+            "point": [
+                1302,
+                534
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 1,
+            "name": "Person B (路人)",
+            "point": [
+                1396,
+                737
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 2,
+            "name": "Person C (路人)",
+            "point": [
+                1803,
+                737
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 3,
+            "name": "Chair Left (左邊椅子)",
+            "point": [
+                1277,
+                1376
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 4,
+            "name": "Table Center (中間桌子)",
+            "point": [
+                2828,
+                1347
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 5,
+            "name": "Box Right (右邊箱子)",
+            "point": [
+                1599,
+                1416
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 6,
+            "name": "Box left (右邊箱子)",
+            "point": [
+                1436,
+                1897
+            ],
+            "label": 1,
+            "is_static": true
+        }
+    ],
+    "102001": [
+        {
+            "id": 0,
+            "name": "Person A (主角)",
+            "point": [
+                1312,
+                559
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 1,
+            "name": "Person B (路人)",
+            "point": [
+                1505,
+                678
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 2,
+            "name": "Person C (路人)",
+            "point": [
+                1907,
+                653
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 3,
+            "name": "Chair Left (左邊椅子)",
+            "point": [
+                1590,
+                1332
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 4,
+            "name": "Table Center (中間桌子)",
+            "point": [
+                2997,
+                1267
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 5,
+            "name": "Box Right (右邊箱子)",
+            "point": [
+                1803,
+                1802
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 6,
+            "name": "Box left (右邊箱子)",
+            "point": [
+                2640,
+                1178
+            ],
+            "label": 1,
+            "is_static": true
+        }
+    ],
+    "103001": [
+        {
+            "id": 0,
+            "name": "Person A (主角)",
+            "point": [
+                955,
+                514
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 1,
+            "name": "Person B (路人)",
+            "point": [
+                1327,
+                697
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 2,
+            "name": "Person C (路人)",
+            "point": [
+                1773,
+                673
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 3,
+            "name": "Chair Left (左邊椅子)",
+            "point": [
+                990,
+                1535
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 4,
+            "name": "Table Center (中間桌子)",
+            "point": [
+                1520,
+                1565
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 5,
+            "name": "Box Right (右邊箱子)",
+            "point": [
+                2957,
+                1302
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 6,
+            "name": "Box left (右邊箱子)",
+            "point": [
+                1847,
+                2020
+            ],
+            "label": 1,
+            "is_static": true
+        }
+    ],
+    "104001": [
+        {
+            "id": 0,
+            "name": "Person A (主角)",
+            "point": [
+                846,
+                499
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 1,
+            "name": "Person B (路人)",
+            "point": [
+                1416,
+                628
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 2,
+            "name": "Person C (路人)",
+            "point": [
+                1758,
+                618
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 3,
+            "name": "Chair Left (左邊椅子)",
+            "point": [
+                1188,
+                1495
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 4,
+            "name": "Table Center (中間桌子)",
+            "point": [
+                1773,
+                1500
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 5,
+            "name": "Box Right (右邊箱子)",
+            "point": [
+                3002,
+                1158
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 6,
+            "name": "Box left (右邊箱子)",
+            "point": [
+                2665,
+                1089
+            ],
+            "label": 1,
+            "is_static": true
+        }
+    ],
+    "105001": [
+        {
+            "id": 0,
+            "name": "Person A (主角)",
+            "point": [
+                187,
+                103
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 1,
+            "name": "Person B (路人)",
+            "point": [
+                3106,
+                499
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 2,
+            "name": "Person C (路人)",
+            "point": [
+                3472,
+                167
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 3,
+            "name": "Chair Left (左邊椅子)",
+            "point": [
+                1074,
+                1540
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 4,
+            "name": "Table Center (中間桌子)",
+            "point": [
+                2650,
+                2080
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 5,
+            "name": "Box Right (右邊箱子)",
+            "point": [
+                1654,
+                1723
+            ],
+            "label": 1,
+            "is_static": true
+        }
+    ],
+    "106001": [
+        {
+            "id": 0,
+            "name": "Person A (主角)",
+            "point": [
+                63,
+                63
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 1,
+            "name": "Person B (路人)",
+            "point": [
+                3433,
+                123
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 2,
+            "name": "Person C (路人)",
+            "point": [
+                3041,
+                108
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 3,
+            "name": "Chair Left (左邊椅子)",
+            "point": [
+                663,
+                1282
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 4,
+            "name": "Table Center (中間桌子)",
+            "point": [
+                2907,
+                1822
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 5,
+            "name": "Box Right (右邊箱子)",
+            "point": [
+                1287,
+                1495
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 6,
+            "name": "Box left (右邊箱子)",
+            "point": [
+                3784,
+                1124
+            ],
+            "label": 1,
+            "is_static": true
+        }
+    ],
+    "107001": [
+        {
+            "id": 1,
+            "name": "Person B (路人)",
+            "point": [
+                1213,
+                1064
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 2,
+            "name": "Person C (路人)",
+            "point": [
+                866,
+                747
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 3,
+            "name": "Chair Left (左邊椅子)",
+            "point": [
+                1872,
+                1555
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 4,
+            "name": "Table Center (中間桌子)",
+            "point": [
+                2952,
+                1758
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 5,
+            "name": "Box Right (右邊箱子)",
+            "point": [
+                2159,
+                1059
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 6,
+            "name": "Box left (右邊箱子)",
+            "point": [
+                2982,
+                1292
+            ],
+            "label": 1,
+            "is_static": true
+        }
+    ],
+    "108001": [
+        {
+            "id": 1,
+            "name": "Person B (路人)",
+            "point": [
+                970,
+                1322
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 2,
+            "name": "Person C (路人)",
+            "point": [
+                490,
+                1129
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 3,
+            "name": "Chair Left (左邊椅子)",
+            "point": [
+                2625,
+                1867
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 4,
+            "name": "Table Center (中間桌子)",
+            "point": [
+                1639,
+                1510
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 5,
+            "name": "Box Right (右邊箱子)",
+            "point": [
+                1694,
+                1906
+            ],
+            "label": 1,
+            "is_static": true
+        }
+    ],
+    "109001": [
+        {
+            "id": 0,
+            "name": "Person A (主角)",
+            "point": [
+                767,
+                544
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 1,
+            "name": "Person B (路人)",
+            "point": [
+                2001,
+                618
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 2,
+            "name": "Person C (路人)",
+            "point": [
+                2437,
+                598
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 3,
+            "name": "Chair Left (左邊椅子)",
+            "point": [
+                1307,
+                1213
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 4,
+            "name": "Table Center (中間桌子)",
+            "point": [
+                1961,
+                1436
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 5,
+            "name": "Box Right (右邊箱子)",
+            "point": [
+                2699,
+                1426
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 6,
+            "name": "Box left (右邊箱子)",
+            "point": [
+                3061,
+                980
+            ],
+            "label": 1,
+            "is_static": true
+        }
+    ],
+    "110001": [
+        {
+            "id": 0,
+            "name": "Person A (主角)",
+            "point": [
+                831,
+                554
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 1,
+            "name": "Person B (路人)",
+            "point": [
+                1654,
+                707
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 2,
+            "name": "Person C (路人)",
+            "point": [
+                1976,
+                653
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 3,
+            "name": "Chair Left (左邊椅子)",
+            "point": [
+                1431,
+                1510
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 4,
+            "name": "Table Center (中間桌子)",
+            "point": [
+                2164,
+                1391
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 5,
+            "name": "Box Right (右邊箱子)",
+            "point": [
+                2967,
+                1094
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 6,
+            "name": "Box left (右邊箱子)",
+            "point": [
+                1267,
+                1193
+            ],
+            "label": 1,
+            "is_static": true
+        }
+    ],
+    "111001": [
+        {
+            "id": 0,
+            "name": "Person A (主角)",
+            "point": [
+                678,
+                445
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 1,
+            "name": "Person B (路人)",
+            "point": [
+                1708,
+                663
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 2,
+            "name": "Person C (路人)",
+            "point": [
+                1966,
+                593
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 3,
+            "name": "Chair Left (左邊椅子)",
+            "point": [
+                1297,
+                1183
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 4,
+            "name": "Table Center (中間桌子)",
+            "point": [
+                1510,
+                1550
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 5,
+            "name": "Box Right (右邊箱子)",
+            "point": [
+                2402,
+                1530
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 6,
+            "name": "Box left (右邊箱子)",
+            "point": [
+                3066,
+                1138
+            ],
+            "label": 1,
+            "is_static": true
+        }
+    ],
+    "112001": [
+        {
+            "id": 0,
+            "name": "Person A (主角)",
+            "point": [
+                836,
+                544
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 1,
+            "name": "Person B (路人)",
+            "point": [
+                1515,
+                707
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 2,
+            "name": "Person C (路人)",
+            "point": [
+                1872,
+                673
+            ],
+            "label": 1,
+            "is_static": false
+        },
+        {
+            "id": 3,
+            "name": "Chair Left (左邊椅子)",
+            "point": [
+                1307,
+                1510
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 4,
+            "name": "Table Center (中間桌子)",
+            "point": [
+                2006,
+                1614
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 5,
+            "name": "Box Right (右邊箱子)",
+            "point": [
+                2972,
+                1322
+            ],
+            "label": 1,
+            "is_static": true
+        },
+        {
+            "id": 6,
+            "name": "Box left (右邊箱子)",
+            "point": [
+                2377,
+                1941
+            ],
+            "label": 1,
+            "is_static": true
+        }
+    ]
+}
