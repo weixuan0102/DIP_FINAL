@@ -8,16 +8,10 @@ Ensure you have the following Conda environments installed:
 - `sam3`: For generating static masks using SAM3.
 
 ```bash
-# Create environments from provided YAML files
-conda env create -f environment_videogs.yml
-conda env create -f environment_sam3.yml
-```
-
-```bash
 git clone --recursive https://github.com/weixuan0102/DIP_FINAL.git
 ```
 
-Build conda environments
+Build conda environments:
 ```bash
 conda env create -f environment_videogs.yml
 conda env create -f environment_sam3.yml

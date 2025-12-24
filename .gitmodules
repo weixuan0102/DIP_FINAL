@@ -1,3 +1,6 @@
 [submodule "sam3"]
 	path = sam3
 	url = https://github.com/facebookresearch/sam3
+[submodule "static_gs"]
+	path = static_gs
+	url = https://github.com/loodv002/static_gs
