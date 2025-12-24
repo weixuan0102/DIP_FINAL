@@ -1,0 +1,12 @@
+plyfile
+tqdm
+pymeshlab
+open3d
+commentjson
+imageio
+pybind11
+scipy
+opencv-python
+trimesh
+tensorboard
+natsort
